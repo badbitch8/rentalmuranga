@@ -1,0 +1,80 @@
+# Laravel
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+*~
+.project
+.settings
+.buildpath
+
+# Logs
+*.log
+logs/
+
+# Testing
+coverage/
+.phpunit.cache
+
+# Build
+/public/mix-manifest.json
+/public/js
+/public/css
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Database
+*.sqlite
+*.sqlite-journal
+
+# Backup files
+*.bak
+*.backup
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Documentation
+/docs/build/
+
+# Made with Bob
